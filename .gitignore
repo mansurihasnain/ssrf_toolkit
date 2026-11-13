@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[c]
+*.pyo
+*.pyd
+
+# Reports / output directories
+ssrf_report/
+ssrf_escalation_report/
+ssrf_escalation_report/
+owasp_scan_report/
+
+# Virtual environments
+venv/
+.env
+.venv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
